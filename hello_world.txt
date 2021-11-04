@@ -1,0 +1,2 @@
+The Odin Project is cool!
+That's the text I added.
